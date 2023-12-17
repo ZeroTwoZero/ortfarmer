@@ -1,0 +1,1 @@
+enum TypeEnum { irrigated, rainfed }
